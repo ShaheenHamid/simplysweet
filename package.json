@@ -2,7 +2,7 @@
   "name": "simplysweet",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/ShaheenHamid/simplysweet.git",
+  "homepage": "https://github.com/ShaheenHamid/simplysweet/",
   "dependencies": {
     "@emailjs/browser": "^3.7.0",
     "@fortawesome/fontawesome-svg-core": "^6.2.0",
