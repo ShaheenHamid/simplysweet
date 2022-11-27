@@ -1,0 +1,26 @@
+
+.contactUs{
+    padding-top: 5%;
+    padding-right: 5%;
+    padding-left: 5%
+}
+
+
+.contact__form .form-control{
+    padding: 1.375rem .75rem;
+    line-height: 1.5;
+    color: black;
+    background-color:#ffffff;;
+    border-radius: 0 !important ;
+    border: 1px solid #FFF2B2;
+}
+
+.btn{
+    border-color: #FFF2B2 !important;
+    background-color: white;
+}
+
+.bgH{
+    font-family: "Brush Script MT";
+    color: #545454;
+}

@@ -1,0 +1,29 @@
+
+.navbar{
+  background-color: #FFF2B2;
+  
+} 
+
+
+.top{
+  height: 15vh;
+  background-color: #FFF2B2;
+
+}
+
+.dropDown{
+  background-color: #FFF2B2;
+  position: relative;
+  z-index: 1; 
+  padding-left: 3vw;
+}
+
+.simplySweetLogo{
+  height: 10vh;
+ 
+}
+
+.headerContainer{
+  position: relative;
+  z-index: 1; 
+}
