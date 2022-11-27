@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/ShaheenHamid/simplysweet.git/static/css/main.3dd4c619.css",
+    "main.js": "/ShaheenHamid/simplysweet.git/static/js/main.d4e46652.js",
+    "static/js/787.53e63cf0.chunk.js": "/ShaheenHamid/simplysweet.git/static/js/787.53e63cf0.chunk.js",
+    "static/media/chocolateChip.png": "/ShaheenHamid/simplysweet.git/static/media/chocolateChip.e46d35ea810cfea48ff6.png",
+    "static/media/naankhatai.png": "/ShaheenHamid/simplysweet.git/static/media/naankhatai.72f6f195d1e538b4c086.png",
+    "static/media/pineappleFreshCream.png": "/ShaheenHamid/simplysweet.git/static/media/pineappleFreshCream.9181b80faf292e3f78cd.png",
+    "static/media/sideAssortment.png": "/ShaheenHamid/simplysweet.git/static/media/sideAssortment.6b833e21a384310c8670.png",
+    "static/media/blackForest.png": "/ShaheenHamid/simplysweet.git/static/media/blackForest.b829c679bfb6f361e7a1.png",
+    "static/media/simplySweetWhiteLogo.png": "/ShaheenHamid/simplysweet.git/static/media/simplySweetWhiteLogo.11f0afcd4a0158f591b1.png",
+    "static/media/Assortment.JPG": "/ShaheenHamid/simplysweet.git/static/media/Assortment.de9aafe4b6bb35c15158.JPG",
+    "static/media/HeartCake.jpg": "/ShaheenHamid/simplysweet.git/static/media/HeartCake.4caa698a7d2d6e9b825e.jpg",
+    "static/media/BlueberryCake.JPG": "/ShaheenHamid/simplysweet.git/static/media/BlueberryCake.5d38e764566b5e75b995.JPG",
+    "static/media/SimplySweetLogo.jpg": "/ShaheenHamid/simplysweet.git/static/media/SimplySweetLogo.8ec285667f76677ff2ca.jpg",
+    "index.html": "/ShaheenHamid/simplysweet.git/index.html",
+    "main.3dd4c619.css.map": "/ShaheenHamid/simplysweet.git/static/css/main.3dd4c619.css.map",
+    "main.d4e46652.js.map": "/ShaheenHamid/simplysweet.git/static/js/main.d4e46652.js.map",
+    "787.53e63cf0.chunk.js.map": "/ShaheenHamid/simplysweet.git/static/js/787.53e63cf0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3dd4c619.css",
+    "static/js/main.d4e46652.js"
+  ]
+}
